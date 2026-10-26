@@ -33,4 +33,4 @@ BS Information Technology, Davao del Norte State College
 
 - GitHub profile: [github.com/Earl-404](https://github.com/Earl-404)
 - Source repository: [github.com/Earl-404/personal-cv](https://github.com/Earl-404/personal-cv)
-- Live website: _Add the Vercel deployment URL after deployment._
+- Live website: [personal-cv-lovat.vercel.app](https://personal-cv-lovat.vercel.app/)
